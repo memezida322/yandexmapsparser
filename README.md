@@ -1,0 +1,2 @@
+# yandexmapsparser
+w
