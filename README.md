@@ -6,13 +6,13 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/memezida322/parseryandexmaps
+    git clone https://github.com/memezida322/yandexmapsparser
     ```
 
 2. Перейдите в каталог проекта:
 
     ```bash
-    cd parseryandexmaps
+    cd yandexmapsparser
     ```
 
 3. Установите зависимости:
